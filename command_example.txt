@@ -1,0 +1,6 @@
+cd testCase
+
+./cv_test 480 360 4 0.55 /home/pi/convert_size/mnnFile/RFB-Epoch-199-Loss-1_1209_480.mnn 963.mp4 5 3 2 3
+
+./cv_test 640 480 4 0.65 /home/pi/convert_size/mnnFile/Roy_RFB-640.mnn 456.mp4 5 3 2 3
+
